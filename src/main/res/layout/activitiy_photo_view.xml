@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/rl_all"
+    android:layout_width="match_parent"
+    android:background="@color/trans"
+    android:layout_height="match_parent">
+    <com.cosage.zzh.kotlin.PhotoView.PhotoViewPager
+        android:id="@+id/view_pager_photo"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+    </com.cosage.zzh.kotlin.PhotoView.PhotoViewPager>
+    <TextView
+        android:id="@+id/tv_count"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        tools:text="fdsfds"
+        android:layout_margin="16dp"
+        android:textSize="14dp"
+        android:textColor="@color/colorWhite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</RelativeLayout>

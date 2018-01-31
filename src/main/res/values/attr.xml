@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="rate" format="float"/>
+    <declare-styleable name="SquareImageView">
+        <attr name="rate" />
+    </declare-styleable>
+</resources>

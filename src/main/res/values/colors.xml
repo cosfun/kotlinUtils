@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="themeColor">#BF2A23</color>
+    <color name="colorBlack">#333333</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorYellow">#fbc23d</color>
+    <color name="colorGray">#808080</color>
+    <color name="colorFrechGray">#cccccc</color>
+    <color name="colorOrange">#f5aa00</color>
+    <color name="buttonBackground">#f0d0d1</color>
+    <color name="cutline">#e0e0e0</color>
+    <color name="colorPadding">#f3f4f6</color>
+    <color name="colorBack">#F7F7F7</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorBlue">#71D0FF</color>
+    <!-- ios dialog start-->
+    <color name="trans">#00000000</color>
+    <color name="half_trans">#B0000000</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="divide">#e0e0e0</color>
+
+
+    <color name="fragment_message_rescue_background">#F3F4F6</color>
+    <color name="emptyview_background">#F3F4F6</color>
+
+    <!--分割线颜色-->
+    <color name="divide_color">#eaeaea</color>
+
+    <color name="sign_yellow">#FBC23D</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="tuijian_orange">#F39801</color>
+
+    <color name="saoma_btn_gray">#F2F2F2</color>
+
+
+
+    <!--黄永业-->
+    <color name="all_bg">#F3F4F6</color>
+
+
+</resources>
